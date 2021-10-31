@@ -1,2 +1,4 @@
 i am cerating new file.
 feature 1
+feature 2. 
+New practice. friday. 
